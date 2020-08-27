@@ -1,0 +1,1 @@
+export const isAuthorized = () => document.cookie.indexOf('isAuthorized=1') !== -1;
